@@ -1,6 +1,7 @@
 /**
  * Copyright 2024 Medallia Inc.
  * https://www.medallia.com/
+ * v1
  */
 window._da_=window._da_||[];_da_['jsVersion']=1727132319;_da_["da_websiteId"] = 2409020;_da_["returnVisit"] = false;_da_["accountNumber"] = 14201;_da_["da_dnsRecord"] = "collection.decibelinsight.net";_da_["intPreScripts"] = function(){};_da_["intScripts"] = function(){try{// List of events which need to check at DXA level
 var medalliaEventsArr = ["MDigital_Form_Close_No_Submit","MDigital_Form_Next_Page","MDigital_Form_Back_Page","MDigital_ThankYou_Close","MDigital_Form_Close_Submitted","MDigital_ThankYou_Displayed","MDigital_Submit_Feedback","MDigital_CaptureButton_Taken","MDigital_Invite_Declined"];
