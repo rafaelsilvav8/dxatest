@@ -9,10 +9,10 @@ if (!window._flutter) {
 _flutter.buildConfig = {"engineRevision":"db49896cf25ceabc44096d5f088d86414e05a7aa","builds":[{"compileTarget":"dart2js","renderer":"html","mainJsPath":"dxatest/main.dart.js"}]};
 
 
-const useCanvasKit = true;
+const useCanvasKit = false;
 
 const config = {
-  renderer: useCanvasKit ? "canvaskit" : "skwasm",
+  renderer: useCanvasKit ? "canvaskit" : "html",
 };
 _flutter.loader.load({
   config: config,
